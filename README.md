@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a Data Scientiest | Machine Learning Engineer at FPT Software.
-- 👀 I’m interested in building data analytics solutions on cloud environments.
+- 👋 Hi, I’m a Data Engineer | Machine Learning Engineer at FPT Software.
+- 👀 I’m interested in building data infrastructures and data analytics solutions in cloud environments.
 - 🌱 I'm keen on learning Data Science, Machine Learning, and Deep Learning subjects.
 - 💞️ I’m looking to collaborate on data-related projects.
 - 📫 I can be reached via LinkedIn https://www.linkedin.com/in/khanh-tran-8b010849/
